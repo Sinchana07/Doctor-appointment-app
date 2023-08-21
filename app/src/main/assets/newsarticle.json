@@ -1,0 +1,87 @@
+[
+  {
+    "title": "Is your morning coffee really an energy boost or just a placebo?",
+    "description": "Researchers compared the neurological effects of coffee and caffeine consumption.They found that coffee, but not caffeine consumption increases brain activity linked to visual processing and higher-level cognitive function.The findings mean that some key benefits of drinking coffee may not be related to caffeine."
+  },
+  {
+    "title": "Regular naps might help keep brain younger by as much as 6.5 years",
+    "description": "People with a genetic disposition for taking naps have a larger brain volume than others, according to new research.With brain volume often decreasing with age, the study shows that people with this genetic predisposition exhibit fewer years of brain aging than non-nappers.Whether the study reveals a causal connection between napping and brain health remains unclear, but it nonetheless offers a new exploration angle."
+  },
+  {
+    "title": "Fluctuating cholesterol, triglyceride levels may influence dementia risk",
+    "description": "They found that participants in the top 20% of cholesterol and triglyceride variability were significantly more likely to develop dementia than those in the bottom 20%."
+  },
+  {
+    "title": "Could monthly vitamin D supplements help prevent heart attacks?",
+    "description": "While the scientists did not find that vitamin D had any impact on strokes when comparing the control and test groups, they did learn that the rate of major cardiovascular events was 9% lower in the group that took the vitamin D supplement."
+  },
+  {
+    "title": "Brain's unique ‘pain fingerprint’ could lead to personalized pain management",
+    "description": "The researchers found that individuals show distinct gamma responses, which they refer to as “pain fingerprints.” They suggest this finding may allow tailored pain treatments directed by an individual’s gamma response."
+  },
+  {
+    "title": "Poor dental health may increase Alzheimer's risk",
+    "description": "The researchers found that of those without significant gum disease, having fewer teeth corresponded with a greater reduction in hippocampal volume. Perhaps paradoxically, for people with severe gum disease, having more teeth aligned with a greater degree of hippocampal atrophy."
+  },
+  {
+    "title": "Once-weekly insulin vs. daily injection: Study finds one is more effective than the other",
+    "description": "Researchers conducted a Phase 3 trial among people with type 2 diabetes, comparing the efficacy and safety of a once-weekly insulin called “icodec” with the standard once-daily injection degludec. Degludec is a long-acting insulin drug that helps regulate blood sugar levels.They found that once-weekly icodec treatment resulted in greater reductions in blood sugar levels than once-daily degludec after 26 weeks."
+  },
+  {
+    "title": "Hormone therapy for menopause linked to increased risk of dementia",
+    "description": "About 45% of all women use menopausal hormone therapy to help alleviate symptoms of menopause.Previous research shows certain types of hormone replacement therapy (HRT) may increase a woman’s risk of severe diseases.Researchers from Copenhagen University Hospital – Rigshospitalet say menopausal hormone therapy is associated with an increased risk of dementia and Alzheimer’s disease."
+  },
+  {
+    "title": "Could eating at night improve running endurance?",
+    "description": "Studies in mice and humans have shown that limiting food intake to the active cycle — when an individual is most active and alert — has various health benefits, including weight loss and improved blood sugar control.Now, a new mouse study has shown that restricting feeding to the resting period greatly improved endurance in running tests.This effect was surprising and unexpected, as feeding during the resting period is typically considered to be detrimental to health."
+  },
+  {
+    "title": "Could probiotics for dry eyes help treat symptoms?",
+    "description": "Researchers have identified a probiotic bacterial strain that helped improve dry eye via a mouse model.About 12% of the global population has dry eye, a condition in which the eyes are unable to self-lubricate sufficiently.There is no cure for dry eye disease, but the new study presents a pathway for future treatments."
+  },
+
+  {
+    "title": "Exercise may raise stroke risk for people with moderate to severe blocked arteries",
+    "description": "Researchers are reporting that exercise may induce a stroke in people with highly blocked arteries.Experts say the study is interesting but note the research is based on a computer model.They add that exercise is still beneficial to most people who don’t have blocked arteries."
+  },
+  {
+    "title": "Intermittent fasting and traditional calorie counting about equal for weight loss",
+    "description": "In a new study, researchers say intermittent fasting and calorie counting were both effective in helping people lose weight.They added that fasting did seem to produce better results for insulin sensitivity.Experts say diets affect each person differently, so it’s important to figure out which method works best for you."
+  },
+  {
+    "title": "Moderate drinking won't lower your risk of diabetes or obesity",
+    "description": "New research shows that light drinking has no protective effect against endocrine conditions such as type 2 diabetes and obesity.Heavy drinking is associated with a host of negative health outcomes.Underlying health conditions can exacerbate the risks posed by drinking.Experts say that the only truly safe amount of alcohol is no alcohol."
+  },
+  {
+    "title": "Social isolation, loneliness linked to increased risk of all-cause mortality",
+    "description": "Social isolation and loneliness are both associated with an increased risk of all-cause mortality, finds an expansive new meta-study.In addition, among people with cancer, social isolation and loneliness are linked to a higher risk of death.For people with heart disease, social isolation, not loneliness, is associated with a higher mortality risk."
+  },
+  {
+    "title": "Whole-food, plant-based diet linked to type 2 diabetes remission",
+    "description": "New research shows that lifestyle intervention, including eating a whole-food, plant-predominant diet, could result in type 2 diabetes remission.Plant-predominant diets may help with the reversal of insulin resistance.Along with adopting healthier eating habits, weight loss, exercise, stress reduction, and avoiding alcohol can help treat diabetes."
+  },
+  {
+    "title": "MicroRNA could treat baldness by stimulating growth in aging hair follicles",
+    "description": "Researchers say they may have figured out a way to stimulate hair growth by utilizing a tiny RNA particle.They report that this treatment was effective in reviving hair growth in old as well as young mice.Experts say more research is needed, but the process, if it proves successful in humans, could be an important advancement in treating baldness."
+  },
+  {
+    "title": "Scientists discovered a possible treatment for baldness from hairy moles and it can be injected like Botox",
+    "description": "Researchers say molecules found in mole hair may be a key to developing a new Botox-like treatment for baldness.They say the new treatment, if it proves successful, could be a major advancement in the field.Experts agree but note that the treatment has only been used in mouse models and may not be effective on human hair."
+  },
+  {
+    "title": "New drug mirikizumab shows promise in ulcerative colitis remission",
+    "description": "A new medication being developed to treat ulcerative colitis showed promise in a recent clinical trial.Researchers said people taking the drug, mirikizumab, achieved remission from ulcerative colitis twice as often as study participants who took a placebo.Experts say the findings are encouraging, but the drug hasn’t been approved by federal regulators yet and more clinical trials are needed."
+  },
+  {
+    "title": "Could an experimental probiotic help detoxify mercury from diet?",
+    "description": "Mercury from the environment can enter the food chain and cause health problems for humans, particularly developing fetuses and children.Mercury is more absorbable in the gut in some forms compared to others.Recently researchers have developed a probiotic bacteria engineered to express an enzyme that converts more absorbable forms of mercury into less absorbable forms.They hope this could eventually be used to minimize mercury exposure in humans, particularly vulnerable populations."
+  },
+  {
+    "title": "How a novel drug may improve survival rate for people with some types of lung cancer",
+    "description": "Adjuvant chemotherapy is prescribed to people with non-small cell lung cancer (NSCLC) after the surgical removal of the tumor to prevent disease recurrence, but these patients are still at a high risk of relapse and death.NSCLC patients with a mutation in the epidermal growth factor receptor (EGFR) gene are at a greater risk of cancer recurrence after surgical removal of the tumor than those with the wild-type EGFR gene."
+  },
+  {
+    "title": "What is the liver-brain axis, and does it play a role in dementia?",
+    "description": "The analysis showed that there were direct and indirect connections between these organs, highlighting the impact of dysfunction across multiple organs."
+  }
+]

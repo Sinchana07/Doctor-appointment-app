@@ -1,0 +1,4 @@
+<!-- bg_default_date.xml -->
+<shape xmlns:android="http://schemas.android.com/apk/res/android">
+    <solid android:color="#FFFFFF" /> <!-- Set your desired background color for the default date -->
+</shape>
